@@ -1,0 +1,9 @@
+Pizzeria=Felix
+baseprice=1000
+size=S,L,M:0,3000,2000
+OptionSets=OptionSet1,OptionSet2
+OptionSet1=Veg
+Options1=papaya,pees,cabage:1000,1000,1500
+OptionSet2=meet
+Options2=rabbit,chicken,snake:1300,2000,1500
+

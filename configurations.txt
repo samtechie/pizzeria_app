@@ -1,0 +1,9 @@
+Pizzeria=Taly
+baseprice=800
+size=S,L,M:0,3000,2000
+OptionSets=OptionSet1,OptionSet2
+OptionSet1=traditionl
+Options1=papaya,beans,legume:100,100,13500
+OptionSet2=special
+Options2=duck,bolognaise,beef:1300,2000,1500
+
